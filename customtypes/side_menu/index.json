@@ -1,0 +1,17 @@
+{
+  "format": "custom",
+  "id": "side_menu",
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      }
+    }
+  },
+  "label": "Side Menu",
+  "repeatable": true,
+  "status": true
+}

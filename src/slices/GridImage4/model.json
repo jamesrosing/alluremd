@@ -1,0 +1,16 @@
+{
+  "id": "grid_image4",
+  "type": "SharedSlice",
+  "name": "GridImage4",
+  "description": "GridImage4",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

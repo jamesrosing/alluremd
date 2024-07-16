@@ -1,0 +1,17 @@
+{
+  "format": "custom",
+  "id": "child_menu",
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      }
+    }
+  },
+  "label": "Child Menu",
+  "repeatable": true,
+  "status": true
+}

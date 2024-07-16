@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"intro_text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Nostrud ad sunt id consectetur. Cupidatat dolore dolore ullamco deserunt fugiat aute laborum esse magna pariatur qui tempor anim."
+						}
+					}
+				]
+			},
+			"form_fields_configuration": {
+				"__TYPE__": "FieldContent",
+				"value": "against",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

@@ -1,0 +1,17 @@
+{
+  "format": "custom",
+  "id": "testimonial",
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      }
+    }
+  },
+  "label": "Testimonial",
+  "repeatable": true,
+  "status": true
+}
